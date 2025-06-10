@@ -29,8 +29,8 @@ http://vip.lqcc.xyz:12206/udp/239.254.200.9:8264
 http://vip.lqcc.xyz:12206/udp/239.254.200.162:6000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="常用频道",CCTV-15
 http://vip.lqcc.xyz:12206/udp/239.254.201.124:8136
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16-4K
-http://vip.lqcc.xyz:35455/gaoma/cctv4k16_10m.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16
+http://vip.lqcc.xyz:12206/udp/239.254.200.61:6344
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="常用频道",CCTV-17
 http://vip.lqcc.xyz:12206/udp/239.254.201.120:8144
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="常用频道",CCTV5+
@@ -56,9 +56,7 @@ p3p://167.114.175.6:55331/6233fcfa000be8f27e0f78035e656379
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://vvip.lqcc.xyz:8092/stream/channelid/801906157?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://vip.lqcc.xyz:35455/gaoma/cctv4k_10m.m3u8
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="常用频道",CCTV-8K超高清
-http://vip.lqcc.xyz:35455/gaoma/cctv8k_36m.m3u8
+http://vip.lqcc.xyz:12206/udp/239.254.200.122:7266
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://vvip.lqcc.xyz:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K

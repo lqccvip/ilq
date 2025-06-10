@@ -38,21 +38,19 @@ http://192.168.1.5:12206/udp/239.254.200.162:6000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="常用频道",CCTV-15
 http://192.168.1.5:12206/udp/239.254.201.124:8136
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16
-http://vip.lqcc.xyz:35455/gaoma/cctv4k16_10m.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16
 http://192.168.1.5:12206/udp/239.254.200.61:6344
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16
+http://vip.lqcc.xyz:35455/gaoma/cctv4k16_10m.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="常用频道",CCTV-17
 http://192.168.1.5:12206/udp/239.254.201.120:8144
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="常用频道",CCTV-风云音乐
+http://192.168.1.5:12206/udp/239.254.201.221:7259
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="常用频道",CCTV5+
 http://192.168.1.5:12206/udp/239.254.200.46:8004
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://vip.lqcc.xyz:35455/gaoma/cctv4k_10m.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://192.168.1.5:12206/udp/239.254.200.122:7266
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="常用频道",CCTV-8K超高清
-http://vip.lqcc.xyz:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="常用频道",CCTV-风云音乐
-http://192.168.1.5:12206/udp/239.254.201.221:7259
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
+http://vvip.lqcc.xyz:8092/stream/channelid/801906157?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用频道",凤凰中文
 http://vvip.lqcc.xyz:8001/1:0:1:2:5:1:41F1018:0:0:0:
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用频道",凤凰资讯
