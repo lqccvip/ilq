@@ -62,8 +62,6 @@ http://vip.lqcc.xyz:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K8K频道",北京卫视-4K
 http://vvip.lqcc.xyz:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K8K频道",北京卫视-4K
-http://vip.lqcc.xyz:15511/udp/239.254.200.187:6000
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K8K频道",北京卫视-4K
 http://vip.lqcc.xyz:15511/udp/239.254.200.64:2000
 #EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="4K8K频道",华数-4K
 http://vip.lqcc.xyz:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
