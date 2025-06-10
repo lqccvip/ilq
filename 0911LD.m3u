@@ -70,8 +70,6 @@ http://vvip.lqcc.xyz:8001/1:0:19:3:0:0:41F0E83:0:0:0:
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K8K频道",北京卫视-4K
 http://vvip.lqcc.xyz:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K8K频道",北京卫视-4K
-http://192.168.1.5:15511/udp/239.254.200.187:6000
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="4K8K频道",北京卫视-4K
 http://192.168.1.5:15511/udp/239.254.200.64:2000
 #EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/lovenature.png" group-title="4K8K频道",lovenature-4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
