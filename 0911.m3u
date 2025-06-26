@@ -43,15 +43,15 @@ http://vvip.lqcc.xyz:8001/1:0:1:2:5:1:41F1018:0:0:0:
 http://vvip.lqcc.xyz:8001/1:0:1:1:5:1:41F1018:0:0:0:
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="常用频道",凤凰香港
 http://vvip.lqcc.xyz:8001/1:0:1:3:5:1:41F1018:0:0:0:
-#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳",星空卫视
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="其他",星空卫视
 http://vvip.lqcc.xyz:8001/1:0:19:2:0:0:41F0E83:0:0:0:
-#EXTINF:-1,tvg-id="【V】音乐台" tvg-name="【V】音乐台" tvg-logo="https://epg.112114.xyz/logo/v.png" group-title="港澳",【V】音乐台
+#EXTINF:-1,tvg-id="【V】音乐台" tvg-name="【V】音乐台" tvg-logo="https://epg.112114.xyz/logo/v.png" group-title="其他",【V】音乐台
 http://vvip.lqcc.xyz:8001/1:0:19:1:0:0:41F0E83:0:0:0:
-#EXTINF:-1,tvg-id="星空卫视-国际台" tvg-name="星空卫视-国际台" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳",星空卫视-国际台
+#EXTINF:-1,tvg-id="星空卫视-国际台" tvg-name="星空卫视-国际台" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="其他",星空卫视-国际台
 http://vvip.lqcc.xyz:8001/1:0:19:3:0:0:41F0E83:0:0:0:
 #EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/lovenature.png" group-title="常用频道",lovenature-4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/lovenature.png" group-title="4K8K频道",lovenature-4k中文字幕
+#EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/lovenature.png" group-title="其他",lovenature-4k中文字幕
 p3p://167.114.175.6:55331/6233fcfa000be8f27e0f78035e656379
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://vvip.lqcc.xyz:8092/stream/channelid/801906157?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
@@ -61,6 +61,8 @@ http://vip.lqcc.xyz:12206/udp/239.254.200.122:7266
 http://vvip.lqcc.xyz:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://vip.lqcc.xyz:12206/udp/239.254.200.64:2000
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
+http://vip.lqcc.xyz:12206/udp/239.254.200.63:2000
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="常用频道",重温经典
 http://vvip.lqcc.xyz:8092/stream/channelid/2098149609?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="鹿泉综合高清" tvg-name="鹿泉综合高清" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/鹿泉.png" group-title="常用频道",鹿泉综合高清
@@ -76,11 +78,11 @@ https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="常用频道",金鹰纪实
 http://vip.lqcc.xyz:12206/udp/239.254.200.189:6293
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_1080.jpg" group-title="常用频道", CHC影迷电影
-http://vip.lqcc.xyz:35455/mgtv/952383261.m3u8
+http://vip.lqcc.xyz:12206/udp/239.254.200.195:7166
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/795/202308221159_1692676692674_H169_1080.jpg" group-title="常用频道", CHC动作电影
-http://vip.lqcc.xyz:35455/mgtv/644368714.m3u8
+http://vip.lqcc.xyz:12206/udp/239.254.200.196:7168
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="常用频道", CHC家庭影院
-http://vip.lqcc.xyz:35455/mgtv/644368373.m3u8
+http://vip.lqcc.xyz:12206/udp/239.254.200.194:7167
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="数字频道",纪实人文高清
 http://vip.lqcc.xyz:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png" group-title="数字频道",求索动物
@@ -91,15 +93,15 @@ http://vip.lqcc.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 http://vip.lqcc.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png" group-title="数字频道",求索生活
 http://vip.lqcc.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="数字频道",生活时尚
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="常用频道",生活时尚
 http://vip.lqcc.xyz:12206/udp/239.254.201.166:6359
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="数字频道",乐游
+#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="常用频道",乐游
 http://vip.lqcc.xyz:12206/udp/239.254.201.200:6356
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="数字频道",欢笑剧场4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
 http://vip.lqcc.xyz:12206/udp/239.254.201.164:6355
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="数字频道",动漫秀场
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="常用频道",动漫秀场
 http://vip.lqcc.xyz:12206/udp/239.254.201.165:6358
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="数字频道",都市剧场
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="常用频道",都市剧场
 http://vip.lqcc.xyz:12206/udp/239.254.201.167:6360
 #EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="数字频道",中华美食
 http://vip.lqcc.xyz:12206/udp/239.254.201.189:7171
