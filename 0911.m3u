@@ -56,11 +56,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/lovenature.png" group-title="其他",lovenature-4k中文字幕
 p3p://167.114.175.6:55331/6233fcfa000be8f27e0f78035e656379
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
+http://vip.lqcc.xyz:12206/udp/239.254.200.65:2000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://vvip.lqcc.xyz:8092/stream/channelid/801906157?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://vip.lqcc.xyz:12206/udp/239.254.200.122:7266
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://vip.lqcc.xyz:12206/udp/239.254.200.65:2000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://vvip.lqcc.xyz:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
@@ -73,9 +73,11 @@ http://vip.lqcc.xyz:12206/udp/239.254.201.65:6000
 http://vip.lqcc.xyz:12206/udp/239.254.201.66:6000
 #EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="常用频道",4K测试
 http://vip.lqcc.xyz:12206/udp/239.254.201.67:6000
-#EXTINF:-1,tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="常用频道",广东卫视4K
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="常用频道",广东卫视4K
+http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="常用频道",广东卫视4K
 http://vip.lqcc.xyz:12206/udp/239.254.200.187:6000
-#EXTINF:-1,tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="常用频道",深圳卫视4K
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="常用频道",深圳卫视4K
 http://vip.lqcc.xyz:12206/udp/239.254.201.68:6000
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="常用频道",重温经典
 http://vvip.lqcc.xyz:8092/stream/channelid/2098149609?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
