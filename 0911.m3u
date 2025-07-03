@@ -168,7 +168,7 @@ http://vip.lqcc.xyz:12206/udp/239.254.200.226:6260
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="常用频道",CETV-4
 http://vip.lqcc.xyz:12206/udp/239.254.200.227:6261
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="常用频道",山东教育
-http://vvip.lqcc.xyz:8092/stream/channelid/1922382832?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vvip.lqcc.xyz:8092/stream/channelid/1324951037?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://vip.lqcc.xyz:12206/udp/239.254.201.15:6339
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视

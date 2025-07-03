@@ -190,7 +190,7 @@ http://192.168.1.5:12206/udp/239.254.200.226:6260
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="常用频道",CETV-4
 http://192.168.1.5:12206/udp/239.254.200.227:6261
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="常用频道",山东教育
-http://vvip.lqcc.xyz:8092/stream/channelid/1922382832?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vvip.lqcc.xyz:8092/stream/channelid/1324951037?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="数字频道",中华美食
 http://192.168.1.5:12206/udp/239.254.201.189:7171
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="数字频道",茶频道
