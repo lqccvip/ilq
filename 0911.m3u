@@ -1,32 +1,58 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV-1
+http://vip.lqcc.xyz:8092/stream/channelid/1070537514?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV-1
 http://vip.lqcc.xyz:12206/udp/239.254.200.45:8008
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用频道",CCTV-2
+http://vip.lqcc.xyz:8092/stream/channelid/541032094?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用频道",CCTV-2
 http://vip.lqcc.xyz:12206/udp/239.254.200.158:6000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="常用频道",CCTV-3
+http://vip.lqcc.xyz:8092/stream/channelid/251068731?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="常用频道",CCTV-3
 http://vip.lqcc.xyz:12206/udp/239.254.201.152:7205
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="常用频道",CCTV-4
+http://vip.lqcc.xyz:8092/stream/channelid/41666656?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="常用频道",CCTV-4
 http://vip.lqcc.xyz:12206/udp/239.254.200.190:6307
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="常用频道",CCTV-5
+http://vip.lqcc.xyz:8092/stream/channelid/1906870639?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="常用频道",CCTV-5
 http://vip.lqcc.xyz:12206/udp/239.254.201.153:7206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="常用频道",CCTV-6
+http://vip.lqcc.xyz:8092/stream/channelid/318797745?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="常用频道",CCTV-6
 http://vip.lqcc.xyz:12206/udp/239.254.201.154:7207
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="常用频道",CCTV-7
+http://vip.lqcc.xyz:8092/stream/channelid/1288925335?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="常用频道",CCTV-7
 http://vip.lqcc.xyz:12206/udp/239.254.200.159:6000
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="常用频道",CCTV-8
+http://vip.lqcc.xyz:8092/stream/channelid/1356794191?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="常用频道",CCTV-8
 http://vip.lqcc.xyz:12206/udp/239.254.201.155:7208
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="常用频道",CCTV-9
+http://vip.lqcc.xyz:8092/stream/channelid/2137120432?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="常用频道",CCTV-9
 http://vip.lqcc.xyz:12206/udp/239.254.200.59:8112
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="常用频道",CCTV-10
+http://vip.lqcc.xyz:8092/stream/channelid/1380303409?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="常用频道",CCTV-10
 http://vip.lqcc.xyz:12206/udp/239.254.200.160:6000
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="常用频道",CCTV-11
+http://vip.lqcc.xyz:8092/stream/channelid/1021108622?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="常用频道",CCTV-11
 http://vip.lqcc.xyz:12206/udp/239.254.201.123:8120
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="常用频道",CCTV-12
+http://vip.lqcc.xyz:8092/stream/channelid/194494593?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="常用频道",CCTV-12
 http://vip.lqcc.xyz:12206/udp/239.254.200.161:6000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用频道",CCTV-13
 http://vip.lqcc.xyz:8092/stream/channelid/1778173301?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用频道",CCTV-13
 http://vip.lqcc.xyz:12206/udp/239.254.200.9:8264
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="常用频道",CCTV-14
+http://vip.lqcc.xyz:8092/stream/channelid/505345836?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="常用频道",CCTV-14
 http://vip.lqcc.xyz:12206/udp/239.254.200.162:6000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="常用频道",CCTV-15
@@ -38,7 +64,11 @@ http://vip.lqcc.xyz:8092/stream/channelid/1713470183?auth=PrI5LXwb51dYilt30TvNYV
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16
 http://vip.lqcc.xyz:12206/udp/239.254.200.61:6344
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="常用频道",CCTV-17
+http://vip.lqcc.xyz:8092/stream/channelid/1078684432?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="常用频道",CCTV-17
 http://vip.lqcc.xyz:12206/udp/239.254.201.120:8144
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="常用频道",CCTV5+
+http://vip.lqcc.xyz:8092/stream/channelid/1375350620?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="常用频道",CCTV5+
 http://vip.lqcc.xyz:12206/udp/239.254.200.46:8004
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="常用频道",CCTV-风云音乐
@@ -56,9 +86,9 @@ http://vip.lqcc.xyz:12206/udp/239.254.201.1:5214
 #EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/lovenature.png" group-title="常用频道",lovenature-4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://vip.lqcc.xyz:12206/udp/239.254.200.65:2000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://vip.lqcc.xyz:8092/stream/channelid/801906157?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
+http://vip.lqcc.xyz:12206/udp/239.254.200.65:2000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://vip.lqcc.xyz:12206/udp/239.254.200.122:7266
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
@@ -88,6 +118,8 @@ http://vvip.lqcc.xyz:8001/1:0:1:15C:13E9:1:4867A:0:0:0:
 #EXTINF:-1,tvg-id="鹿泉2台高清" tvg-name="鹿泉2台高清" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/鹿泉.png" group-title="常用频道",鹿泉2台高清
 http://vvip.lqcc.xyz:8001/1:0:1:15D:13E9:1:4867A:0:0:0:
 #EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://epg.112114.xyz/logo/石家庄新闻.png" group-title="常用频道",石家庄新闻
+http://vip.lqcc.xyz:8092/stream/channelid/2103025406?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://epg.112114.xyz/logo/石家庄新闻.png" group-title="常用频道",石家庄新闻
 http://vip.lqcc.xyz:12206/udp/239.254.200.157:6000
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="常用频道",北京纪实科教
 http://vip.lqcc.xyz:8092/stream/channelid/193303296?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
@@ -111,7 +143,9 @@ http://vip.lqcc.xyz:12206/udp/239.254.200.194:7167
 http://vip.lqcc.xyz:8092/stream/channelid/1095244086?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="常用频道",生活时尚
 http://vip.lqcc.xyz:12206/udp/239.254.201.166:6359
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="常用频道",乐游
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="常用频道",乐游
+http://vip.lqcc.xyz:8092/stream/channelid/1564736929?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="常用频道",乐游
 http://vip.lqcc.xyz:12206/udp/239.254.201.200:6356
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
 http://vip.lqcc.xyz:12206/udp/239.254.201.164:6355
@@ -119,10 +153,16 @@ http://vip.lqcc.xyz:12206/udp/239.254.201.164:6355
 http://vip.lqcc.xyz:12206/udp/239.254.201.165:6358
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="常用频道",都市剧场
 http://vip.lqcc.xyz:12206/udp/239.254.201.167:6360
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="常用频道",劲爆体育
+http://vip.lqcc.xyz:8092/stream/channelid/2087336006?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="常用频道",CGTN
 http://vip.lqcc.xyz:12206/udp/239.254.200.12:8056
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="常用频道",河北卫视
+http://vip.lqcc.xyz:8092/stream/channelid/788538?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="常用频道",河北卫视
 http://vip.lqcc.xyz:12206/udp/239.254.200.174:6000
+#EXTINF:-1,tvg-id="河北收视指南" tvg-name="河北收视指南" tvg-logo="https://epg.112114.xyz/logo/河北收视指南.png" group-title="常用频道",河北收视指南
+http://vip.lqcc.xyz:8092/stream/channelid/149548584?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://epg.112114.xyz/logo/河北经济.png" group-title="本地",河北经济生活
 http://vip.lqcc.xyz:12206/udp/239.254.200.18:6000
 #EXTINF:-1,tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://epg.112114.xyz/logo/河北都市.png" group-title="本地",河北都市
@@ -139,7 +179,7 @@ http://vip.lqcc.xyz:12206/udp/239.254.200.23:6000
 http://vip.lqcc.xyz:12206/udp/239.254.200.27:6000
 #EXTINF:-1,tvg-id="河北杂技" tvg-name="河北杂技" tvg-logo="https://epg.112114.xyz/logo/河北杂技.png" group-title="本地",河北杂技
 http://vip.lqcc.xyz:12206/udp/239.254.201.139:7203
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",兵团卫视
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://vip.lqcc.xyz:8092/stream/channelid/400272807?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://vip.lqcc.xyz:12206/udp/239.254.200.47:8024
@@ -149,6 +189,8 @@ http://vip.lqcc.xyz:12206/udp/239.254.200.48:8012
 http://vip.lqcc.xyz:12206/udp/239.254.200.49:8016
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://vip.lqcc.xyz:12206/udp/239.254.200.50:8020
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://114.226.0.244:4022/rtp/239.49.8.82:8000
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://vip.lqcc.xyz:12206/udp/239.254.200.51:8028
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
@@ -741,7 +783,9 @@ http://vip.lqcc.xyz:12206/udp/239.254.201.215:6167
 http://vip.lqcc.xyz:12206/udp/239.254.201.216:5233
 #EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="其他",天元围棋
 http://vip.lqcc.xyz:12206/udp/239.254.201.156:6270
-#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",早期教育
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="常用频道",早期教育
+http://vip.lqcc.xyz:8092/stream/channelid/465688795?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="常用频道",早期教育
 http://vip.lqcc.xyz:12206/udp/239.254.201.230:7253
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
 http://vip.lqcc.xyz:12206/udp/239.254.201.231:7228
