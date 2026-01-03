@@ -8,7 +8,7 @@ http://vip.lqcc.xyz:8092/stream/channelid/541032094?auth=PrI5LXwb51dYilt30TvNYVV
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用频道",CCTV-2
 http://vip.lqcc.xyz:11661/udp/239.254.200.158:6000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="常用频道",CCTV-3
-http://vip.lqcc.xyz:8092/stream/channelid/888358743?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.lqcc.xyz:8092/stream/channelid/1985752114?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="常用频道",CCTV-3
 http://vip.lqcc.xyz:11661/udp/239.254.201.152:7205
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="常用频道",CCTV-4
