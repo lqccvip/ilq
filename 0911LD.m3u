@@ -82,27 +82,27 @@ http://192.168.1.5:12206/udp/239.254.200.65:2000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://192.168.1.5:12206/udp/239.254.200.122:7266
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用频道",凤凰中文
-http://vvip.lqcc.xyz:8001/1:0:1:2:5:1:41F1018:0:0:0:
+http://vvip.250713.xyz:8001/1:0:1:2:5:1:41F1018:0:0:0:
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用频道",凤凰资讯
-http://vvip.lqcc.xyz:8001/1:0:1:1:5:1:41F1018:0:0:0:
+http://vvip.250713.xyz:8001/1:0:1:1:5:1:41F1018:0:0:0:
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="常用频道",凤凰香港
-http://vvip.lqcc.xyz:8001/1:0:1:3:5:1:41F1018:0:0:0:
+http://vvip.250713.xyz:8001/1:0:1:3:5:1:41F1018:0:0:0:
 #EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.112114.xyz/logo/凤凰电影.png" group-title="常用频道",凤凰电影
 http://192.168.1.5:12206/udp/239.254.201.1:5214
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="常用频道",广东卫视4K
 http://192.168.1.6:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="常用频道",江苏卫视4K
-http://vip.lqcc.xyz:8092/stream/channelid/648679754?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/648679754?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="常用频道",江苏卫视4K
 http://192.168.1.5:12206/udp/239.254.200.187:6000
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="常用频道",深圳卫视4K
 http://192.168.1.6:8092/stream/channelid/1066636141?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="常用频道",湖南卫视4K
-http://vip.lqcc.xyz:8092/stream/channelid/667140126?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/667140126?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="常用频道",湖南卫视4K
 http://192.168.1.5:12206/udp/239.254.201.68:6000
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="常用频道",山东卫视4K
-http://vip.lqcc.xyz:8092/stream/channelid/951438115?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/951438115?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://192.168.1.6:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
@@ -110,21 +110,21 @@ http://192.168.1.5:12206/udp/239.254.200.64:2000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://192.168.1.5:12206/udp/239.254.200.63:2000
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="常用频道",浙江卫视4K
-http://vip.lqcc.xyz:8092/stream/channelid/113027183?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/113027183?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="常用频道",东方卫视4K
-http://vip.lqcc.xyz:8092/stream/channelid/1636877857?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/1636877857?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="常用频道",四川卫视4K
-http://vip.lqcc.xyz:8092/stream/channelid/1991169737?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
-#EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/lovenature.png" group-title="常用频道",lovenature-4k
+http://vip.250713.xyz:8092/stream/channelid/1991169737?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.250713.xyz:8899/IPTV/logo/lovenature.png" group-title="常用频道",lovenature-4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="常用频道",重温经典
-http://vip.lqcc.xyz:8092/stream/channelid/1010180490?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
-#EXTINF:-1,tvg-id="鹿泉综合高清" tvg-name="鹿泉综合高清" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/鹿泉.png" group-title="常用频道",鹿泉综合高清
-http://vvip.lqcc.xyz:8001/1:0:1:15C:13E9:1:4867A:0:0:0:
-#EXTINF:-1,tvg-id="鹿泉2台高清" tvg-name="鹿泉2台高清" tvg-logo="http://vip.lqcc.xyz:8899/IPTV/logo/鹿泉.png" group-title="常用频道",鹿泉2台高清
-http://vvip.lqcc.xyz:8001/1:0:1:15D:13E9:1:4867A:0:0:0:
+http://vip.250713.xyz:8092/stream/channelid/1010180490?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="鹿泉综合高清" tvg-name="鹿泉综合高清" tvg-logo="http://vip.250713.xyz:8899/IPTV/logo/鹿泉.png" group-title="常用频道",鹿泉综合高清
+http://vvip.250713.xyz:8001/1:0:1:15C:13E9:1:4867A:0:0:0:
+#EXTINF:-1,tvg-id="鹿泉2台高清" tvg-name="鹿泉2台高清" tvg-logo="http://vip.250713.xyz:8899/IPTV/logo/鹿泉.png" group-title="常用频道",鹿泉2台高清
+http://vvip.250713.xyz:8001/1:0:1:15D:13E9:1:4867A:0:0:0:
 #EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://epg.112114.xyz/logo/石家庄新闻.png" group-title="常用频道",石家庄新闻
-http://vip.lqcc.xyz:8092/stream/channelid/2103025406?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/2103025406?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://epg.112114.xyz/logo/石家庄新闻.png" group-title="常用频道",石家庄新闻
 http://192.168.1.5:12206/udp/239.254.200.157:6000
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="常用频道",北京纪实科教
@@ -152,7 +152,7 @@ http://192.168.1.5:12206/udp/239.254.201.166:6359
 #EXTINF:-1,tvg-id="全纪实" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="常用频道",乐游
 http://192.168.1.5:12206/udp/239.254.201.200:6356
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
-http://vip.lqcc.xyz:8092/stream/channelid/2133386526?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/2133386526?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
 http://192.168.1.5:12206/udp/239.254.201.164:6355
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="常用频道",动漫秀场
@@ -162,11 +162,11 @@ http://192.168.1.5:12206/udp/239.254.201.167:6360
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="常用频道",CGTN
 http://192.168.1.5:12206/udp/239.254.200.12:8056
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="常用频道",河北卫视
-http://vip.lqcc.xyz:8092/stream/channelid/788538?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/788538?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="常用频道",河北卫视
 http://192.168.1.5:12206/udp/239.254.200.174:6000
 #EXTINF:-1,tvg-id="河北收视指南" tvg-name="河北收视指南" tvg-logo="https://epg.112114.xyz/logo/河北收视指南.png" group-title="常用频道",河北收视指南
-http://vip.lqcc.xyz:8092/stream/channelid/149548584?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+http://vip.250713.xyz:8092/stream/channelid/149548584?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://epg.112114.xyz/logo/河北经济.png" group-title="本地",河北经济生活
 http://192.168.1.5:12206/udp/239.254.200.18:6000
 #EXTINF:-1,tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://epg.112114.xyz/logo/河北都市.png" group-title="本地",河北都市
@@ -228,11 +228,11 @@ http://192.168.1.5:12206/udp/239.254.201.13:6291
 #EXTINF:-1,tvg-id="DW TV" tvg-name="DW TV" tvg-logo="https://epg.112114.xyz/logo/DW-TV.png" group-title="其他",DW TV
 http://vvip.lqcc.asia:8001/1:0:19:8:7:FFFF:41F9004:0:0:0:
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="其他",星空卫视
-http://vvip.lqcc.xyz:8001/1:0:19:2:0:0:41F0E83:0:0:0:
+http://vvip.250713.xyz:8001/1:0:19:2:0:0:41F0E83:0:0:0:
 #EXTINF:-1,tvg-id="V音乐台" tvg-name="V音乐台" tvg-logo="https://epg.112114.xyz/logo/v.png" group-title="其他",【V】音乐台
-http://vvip.lqcc.xyz:8001/1:0:19:1:0:0:41F0E83:0:0:0:
+http://vvip.250713.xyz:8001/1:0:19:1:0:0:41F0E83:0:0:0:
 #EXTINF:-1,tvg-id="星空卫视-国际台" tvg-name="星空卫视-国际台" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="其他",星空卫视-国际台
-http://vvip.lqcc.xyz:8001/1:0:19:3:0:0:41F0E83:0:0:0:
+http://vvip.250713.xyz:8001/1:0:19:3:0:0:41F0E83:0:0:0:
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="常用频道",CETV-1
 http://192.168.1.5:12206/udp/239.254.200.225:6259
 #EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="常用频道",CETV-2
@@ -818,8 +818,8 @@ http://192.168.1.5:12206/udp/239.254.201.246:7403
 #EXTINF:-1,tvg-id="BEST TV宣传12" tvg-name="BEST TV宣传12" tvg-logo="https://epg.112114.xyz/logo/BESTTV宣传12.png" group-title="其他",BEST TV宣传12
 http://192.168.1.5:12206/udp/239.254.201.247:7404
 #EXTINF:-1,tvg-id="凤凰卫视卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="其他",凤凰卫视电影台
-http://vip.lqcc.xyz:15511/udp/239.254.201.1:5214
+http://vip.250713.xyz:15511/udp/239.254.201.1:5214
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="其他",凤凰卫视中文台
-http://vip.lqcc.xyz:15511/udp/239.254.201.2:5226
+http://vip.250713.xyz:15511/udp/239.254.201.2:5226
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="其他",凤凰卫视资讯台
-http://vip.lqcc.xyz:15511/udp/239.254.201.3:5227
+http://vip.250713.xyz:15511/udp/239.254.201.3:5227
