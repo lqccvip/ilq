@@ -2,85 +2,85 @@
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV-1
 http://192.168.1.6:8092/stream/channelid/1070537514?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="常用频道",CCTV-1
-http://192.168.1.5:12206/udp/239.254.200.45:8008
+http://192.168.1.5:12206/udp/239.254.200.45:8008?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用频道",CCTV-2
 http://192.168.1.6:8092/stream/channelid/541032094?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="常用频道",CCTV-2
-http://192.168.1.5:12206/udp/239.254.200.158:6000
+http://192.168.1.5:12206/udp/239.254.200.158:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="常用频道",CCTV-3
 http://192.168.1.6:8092/stream/channelid/1985752114?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="常用频道",CCTV-3
-http://192.168.1.5:12206/udp/239.254.201.152:7205
+http://192.168.1.5:12206/udp/239.254.201.152:7205?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="常用频道",CCTV-4
 http://192.168.1.6:8092/stream/channelid/41666656?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="常用频道",CCTV-4
-http://192.168.1.5:12206/udp/239.254.200.190:6307
+http://192.168.1.5:12206/udp/239.254.200.190:6307?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="常用频道",CCTV-5
 http://192.168.1.6:8092/stream/channelid/1906870639?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="常用频道",CCTV-5
-http://192.168.1.5:12206/udp/239.254.201.153:7206
+http://192.168.1.5:12206/udp/239.254.201.153:7206?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="常用频道",CCTV-6
 http://192.168.1.6:8092/stream/channelid/318797745?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="常用频道",CCTV-6
-http://192.168.1.5:12206/udp/239.254.201.154:7207
+http://192.168.1.5:12206/udp/239.254.201.154:7207?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="常用频道",CCTV-7
 http://192.168.1.6:8092/stream/channelid/1288925335?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="常用频道",CCTV-7
-http://192.168.1.5:12206/udp/239.254.200.159:6000
+http://192.168.1.5:12206/udp/239.254.200.159:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="常用频道",CCTV-8
 http://192.168.1.6:8092/stream/channelid/1356794191?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="常用频道",CCTV-8
-http://192.168.1.5:12206/udp/239.254.201.155:7208
+http://192.168.1.5:12206/udp/239.254.201.155:7208?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="常用频道",CCTV-9
 http://192.168.1.6:8092/stream/channelid/2137120432?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="常用频道",CCTV-9
-http://192.168.1.5:12206/udp/239.254.200.59:8112
+http://192.168.1.5:12206/udp/239.254.200.59:8112?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="常用频道",CCTV-10
 http://192.168.1.6:8092/stream/channelid/1380303409?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="常用频道",CCTV-10
-http://192.168.1.5:12206/udp/239.254.200.160:6000
+http://192.168.1.5:12206/udp/239.254.200.160:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="常用频道",CCTV-11
 http://192.168.1.6:8092/stream/channelid/1021108622?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="常用频道",CCTV-11
-http://192.168.1.5:12206/udp/239.254.201.123:8120
+http://192.168.1.5:12206/udp/239.254.201.123:8120?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="常用频道",CCTV-12
 http://192.168.1.6:8092/stream/channelid/194494593?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="常用频道",CCTV-12
-http://192.168.1.5:12206/udp/239.254.200.161:6000
+http://192.168.1.5:12206/udp/239.254.200.161:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用频道",CCTV-13
 http://192.168.1.6:8092/stream/channelid/1778173301?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="常用频道",CCTV-13
-http://192.168.1.5:12206/udp/239.254.200.9:8264
+http://192.168.1.5:12206/udp/239.254.200.9:8264?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="常用频道",CCTV-14
 http://192.168.1.6:8092/stream/channelid/505345836?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="常用频道",CCTV-14
-http://192.168.1.5:12206/udp/239.254.200.162:6000
+http://192.168.1.5:12206/udp/239.254.200.162:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="常用频道",CCTV-15
 http://192.168.1.6:8092/stream/channelid/143840770?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="常用频道",CCTV-15
-http://192.168.1.5:12206/udp/239.254.201.124:8136
+http://192.168.1.5:12206/udp/239.254.201.124:8136?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16
 http://192.168.1.6:8092/stream/channelid/1713470183?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="常用频道",CCTV-16
-http://192.168.1.5:12206/udp/239.254.200.61:6344
+http://192.168.1.5:12206/udp/239.254.200.61:6344?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="常用频道",CCTV-17
 http://192.168.1.6:8092/stream/channelid/1078684432?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="常用频道",CCTV-17
-http://192.168.1.5:12206/udp/239.254.201.120:8144
+http://192.168.1.5:12206/udp/239.254.201.120:8144?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="常用频道",CCTV-风云音乐
 http://192.168.1.6:8092/stream/channelid/109774215?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="常用频道",CCTV-风云音乐
-http://192.168.1.5:12206/udp/239.254.201.221:7259
+http://192.168.1.5:12206/udp/239.254.201.221:7259?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="常用频道",CCTV5+
 http://192.168.1.6:8092/stream/channelid/1375350620?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="常用频道",CCTV5+
-http://192.168.1.5:12206/udp/239.254.200.46:8004
+http://192.168.1.5:12206/udp/239.254.200.46:8004?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://192.168.1.6:8092/stream/channelid/801906157?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://192.168.1.5:12206/udp/239.254.200.65:2000
+http://192.168.1.5:12206/udp/239.254.200.65:2000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://192.168.1.5:12206/udp/239.254.200.122:7266
+http://192.168.1.5:12206/udp/239.254.200.122:7266?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="常用频道",凤凰中文
 http://vvip.250713.xyz:8001/1:0:1:2:5:1:41F1018:0:0:0:
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="常用频道",凤凰资讯
@@ -94,21 +94,21 @@ http://192.168.1.6:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVV
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="常用频道",江苏卫视4K
 http://vip.250713.xyz:8092/stream/channelid/648679754?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="常用频道",江苏卫视4K
-http://192.168.1.5:12206/udp/239.254.200.187:6000
+http://192.168.1.5:12206/udp/239.254.200.187:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="常用频道",深圳卫视4K
 http://192.168.1.6:8092/stream/channelid/1066636141?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="常用频道",湖南卫视4K
 http://vip.250713.xyz:8092/stream/channelid/667140126?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="常用频道",湖南卫视4K
-http://192.168.1.5:12206/udp/239.254.201.68:6000
+http://192.168.1.5:12206/udp/239.254.201.68:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="常用频道",山东卫视4K
 http://vip.250713.xyz:8092/stream/channelid/951438115?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://192.168.1.6:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
-http://192.168.1.5:12206/udp/239.254.200.64:2000
+http://192.168.1.5:12206/udp/239.254.200.64:2000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="常用频道",北京卫视-4K
-http://192.168.1.5:12206/udp/239.254.200.63:2000
+http://192.168.1.5:12206/udp/239.254.200.63:2000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="常用频道",浙江卫视4K
 http://vip.250713.xyz:8092/stream/channelid/113027183?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="常用频道",东方卫视4K
@@ -818,8 +818,8 @@ http://192.168.1.5:12206/udp/239.254.201.246:7403
 #EXTINF:-1,tvg-id="BEST TV宣传12" tvg-name="BEST TV宣传12" tvg-logo="https://epg.112114.xyz/logo/BESTTV宣传12.png" group-title="其他",BEST TV宣传12
 http://192.168.1.5:12206/udp/239.254.201.247:7404
 #EXTINF:-1,tvg-id="凤凰卫视卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="其他",凤凰卫视电影台
-http://vip.250713.xyz:15511/udp/239.254.201.1:5214
+http://vip.250713.xyz:15511/rtp/239.254.201.1:5214
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="其他",凤凰卫视中文台
-http://vip.250713.xyz:15511/udp/239.254.201.2:5226
+http://vip.250713.xyz:15511/rtp/239.254.201.2:5226
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="其他",凤凰卫视资讯台
-http://vip.250713.xyz:15511/udp/239.254.201.3:5227
+http://vip.250713.xyz:15511/rtp/239.254.201.3:5227
