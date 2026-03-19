@@ -77,8 +77,12 @@ http://vip.250713.xyz:8092/stream/channelid/109774215?auth=PrI5LXwb51dYilt30TvNY
 http://vip.250713.xyz:12206/udp/239.254.201.221:7259?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="常用频道",凤凰中文
 http://vvip.250713.xyz:8001/1:0:1:2:5:1:41F1018:0:0:0:
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="常用频道",凤凰中文
+http://vip.250713.xyz:12206/udp/239.254.201.2:5226?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="常用频道",凤凰资讯
 http://vvip.250713.xyz:8001/1:0:1:1:5:1:41F1018:0:0:0:
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="常用频道",凤凰资讯
+http://vip.250713.xyz:12206/udp/239.254.201.3:5227?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="常用频道",凤凰香港
 http://vvip.250713.xyz:8001/1:0:1:3:5:1:41F1018:0:0:0:
 #EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰电影.png" group-title="常用频道",凤凰电影
@@ -86,41 +90,53 @@ http://vip.250713.xyz:12206/udp/239.254.201.1:5214
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
 http://vip.250713.xyz:8092/stream/channelid/801906157?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://vip.250713.xyz:12206/udp/239.254.200.65:2000
+http://vip.250713.xyz:12206/udp/239.254.200.65:2000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
-http://vip.250713.xyz:12206/udp/239.254.200.122:7266
+http://vip.250713.xyz:12206/udp/239.254.200.122:7266?fcc=192.168.19.28:8027
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="常用频道",CCTV-4K超高清
+http://vip.250713.xyz:12206/udp/239.254.201.67:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://vip.250713.xyz:8092/stream/channelid/1258564202?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://vip.250713.xyz:12206/udp/239.254.200.64:2000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="常用频道",北京卫视-4K
 http://vip.250713.xyz:12206/udp/239.254.200.63:2000
-#EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K测试.png" group-title="常用频道",4K测试
-http://vip.250713.xyz:12206/udp/239.254.201.65:6000
-#EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K测试.png" group-title="常用频道",4K测试
-http://vip.250713.xyz:12206/udp/239.254.201.66:6000
-#EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K测试.png" group-title="常用频道",4K测试
-http://vip.250713.xyz:12206/udp/239.254.201.67:6000
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="常用频道",广东卫视4K
 http://vip.250713.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="常用频道",广东卫视4K
+http://vip.250713.xyz:12206/udp/239.254.200.70:2000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="常用频道",江苏卫视4K
 http://vip.250713.xyz:8092/stream/channelid/648679754?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="常用频道",江苏卫视4K
-http://vip.250713.xyz:12206/udp/239.254.200.187:6000
+http://vip.250713.xyz:12206/udp/239.254.200.235:30030?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="常用频道",深圳卫视4K
 http://vip.250713.xyz:8092/stream/channelid/1066636141?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="常用频道",深圳卫视4K
+http://vip.250713.xyz:12206/udp/239.254.200.69:2000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="常用频道",湖南卫视4K
 http://vip.250713.xyz:8092/stream/channelid/667140126?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="常用频道",湖南卫视4K
-http://vip.250713.xyz:12206/udp/239.254.201.68:6000
+http://vip.250713.xyz:12206/udp/239.254.200.234:3002?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="常用频道",山东卫视4K
 http://vip.250713.xyz:8092/stream/channelid/951438115?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="常用频道",山东卫视4K
+http://vip.250713.xyz:12206/udp/239.254.200.182:3005?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="常用频道",浙江卫视4K
 http://vip.250713.xyz:8092/stream/channelid/113027183?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="常用频道",浙江卫视4K
+http://vip.250713.xyz:12206/udp/239.254.200.237:3004?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="常用频道",东方卫视4K
 http://vip.250713.xyz:8092/stream/channelid/1636877857?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="常用频道",东方卫视4K
+http://vip.250713.xyz:12206/udp/239.254.200.238:3006?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="常用频道",四川卫视4K
 http://vip.250713.xyz:8092/stream/channelid/1991169737?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="常用频道",四川卫视4K
+http://vip.250713.xyz:12206/udp/239.254.200.180:3001?fcc=192.168.19.28:8027
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
+http://vip.250713.xyz:8092/stream/channelid/2133386526?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
+http://vip.250713.xyz:12206/udp/239.254.201.164:6355?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="常用频道",重温经典
 http://vip.250713.xyz:8092/stream/channelid/1010180490?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="鹿泉综合高清" tvg-name="鹿泉综合高清" tvg-logo="http://vip.250713.xyz:8899/IPTV/logo/鹿泉.png" group-title="常用频道",鹿泉综合高清
@@ -130,7 +146,7 @@ http://vvip.250713.xyz:8001/1:0:1:15D:13E9:1:4867A:0:0:0:
 #EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/石家庄新闻.png" group-title="常用频道",石家庄新闻
 http://vip.250713.xyz:8092/stream/channelid/2103025406?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/石家庄新闻.png" group-title="常用频道",石家庄新闻
-http://vip.250713.xyz:12206/udp/239.254.200.157:6000
+http://vip.250713.xyz:12206/udp/239.254.200.157:6000?fcc=192.168.19.28:8027
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="常用频道",北京纪实科教
 http://vip.250713.xyz:8092/stream/channelid/193303296?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="常用频道",北京纪实科教
@@ -157,10 +173,6 @@ http://vip.250713.xyz:12206/udp/239.254.201.166:6359
 http://vip.250713.xyz:8092/stream/channelid/1564736929?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乐游.png" group-title="常用频道",乐游
 http://vip.250713.xyz:12206/udp/239.254.201.200:6356
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
-http://vip.250713.xyz:8092/stream/channelid/2133386526?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="常用频道",欢笑剧场4K
-http://vip.250713.xyz:12206/udp/239.254.201.164:6355
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动漫秀场.png" group-title="常用频道",动漫秀场
 http://vip.250713.xyz:12206/udp/239.254.201.165:6358
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/都市剧场.png" group-title="常用频道",都市剧场
@@ -169,6 +181,12 @@ http://vip.250713.xyz:12206/udp/239.254.201.167:6360
 http://vip.250713.xyz:8092/stream/channelid/2087336006?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="常用频道",CGTN
 http://vip.250713.xyz:12206/udp/239.254.200.12:8056
+#EXTINF:-1,tvg-id="lovenature" tvg-name="lovenature" tvg-logo="http://vip.250713.xyz:8899/IPTV/logo/lovenature.png" group-title="常用频道",lovenature-4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K测试.png" group-title="常用频道",4K测试
+http://vip.250713.xyz:12206/udp/239.254.201.65:6000
+#EXTINF:-1,tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K测试.png" group-title="常用频道",4K测试
+http://vip.250713.xyz:12206/udp/239.254.201.66:6000
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="常用频道",河北卫视
 http://vip.250713.xyz:8092/stream/channelid/788538?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="常用频道",河北卫视
@@ -332,15 +350,15 @@ http://vip.250713.xyz:12206/udp/239.254.200.87:8124
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视",西藏卫视
 http://vip.250713.xyz:8092/stream/channelid/794186323?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视",西藏卫视
-http://192.168.1.5:12206/udp/239.254.200.88:8164
+http://vip.250713.xyz:12206/udp/239.254.200.88:8164
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视",新疆卫视
 http://vip.250713.xyz:8092/stream/channelid/1010542088?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视",新疆卫视
-http://192.168.1.5:12206/udp/239.254.200.89:8160
+http://vip.250713.xyz:12206/udp/239.254.200.89:8160
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://vip.250713.xyz:8092/stream/channelid/944514498?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://192.168.1.5:12206/udp/239.254.200.90:8188
+http://vip.250713.xyz:12206/udp/239.254.200.90:8188
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育.png" group-title="卫视",山东教育
 http://vip.250713.xyz:12206/udp/239.254.200.247:4120
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="常用频道",kaku少儿
